@@ -1,43 +1,51 @@
 # README-generator
 
-## license Badge
+## The Idea
 
-${response.license}
+create a README generator that allows writing a README to be much easier.
+
+
+
+
+
+
 
 ## Description
 
-${response.projectDescription}
+-This is the README generater designed to make creating a README for your project easier
 
-## Table of Contents
+<img width="1722" alt="Screen Shot 2022-07-21 at 8 24 54 AM" src="https://user-images.githubusercontent.com/106439905/180224670-dfdae449-c3ee-4936-91f2-c4c8b3dbaf70.png">
 
-1. [Description](#description)
-2. [installation](#installation)
-3. [Usage](#usage)
-4. [license](#license)
-5. [Contributors](#contributors)
-6. [Tests](#tests)
-7. [Questions](#questions)
+
+### video of Generator
+https://youtu.be/IJM1J7NpDic
 
 
 ## Installation
 
-${response.installation}
+- The READMe generator is used from the command line
 
 ## usage
 
-${response.howToUse}
+-enter in the information to your project, your name, the description, the usage, the license, contributors and the README will be generated
 
-## License
+## Technologies used
 
-The license used for this project ${response.license}
+  -nodejs
+  
+  ## contributors
+  - Jordan Nadal 
+  https://github.com/jnadal22
+  
+  - Andrew Cooke
+  https://github.com/andcooke
+  
 
-## Tests
 
-${response.testing}
 
-## Questions
 
-If you have any questions or wish to contribute to this project you may email me at ${response.email}.
 
-or you may reach out at my GitHub: [${response.name}](http://github.com/${response.gitHubUsername})
+
+
+
 
